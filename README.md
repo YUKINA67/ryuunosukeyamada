@@ -15,3 +15,6 @@ print(yamada.send_webhook(message="test")
 
 print(yamada.send_embed(WebhookURL)
 ```
+
+テストで作ってみただけです
+コードとかは気が向いたらアップロードします
